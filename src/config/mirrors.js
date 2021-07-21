@@ -27,4 +27,6 @@ module.exports = [
   "https://mirrorz.org/static/json/legacy/cqupt.json",
   "https://mirrorz.org/static/json/legacy/ynuosa.json",
   "https://mirrorz.org/static/json/legacy/xjtu.json",
+  "https://mirrorz.org/static/json/legacy/xtom.json",
+  "https://mirrorz.org/static/json/legacy/xtom-hk.json",
 ]
